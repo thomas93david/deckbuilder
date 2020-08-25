@@ -1,0 +1,24 @@
+#search {
+  /* background-color: white; */
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  justify-content: space-between;
+}
+
+#search #logo {
+  background-image: url("https://media.wizards.com/2018/images/daily/gcYrmy5q9f.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  margin-top: 6px;
+  width: 350px;
+  height: 250px;
+}
+
+#search form {
+  /* margin-bottom: 9px; */
+  margin-top: 100px;
+  margin-right: 18px;
+}
