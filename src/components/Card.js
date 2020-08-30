@@ -1,4 +1,4 @@
-// inside src/components/Card.js
+//  src/components/Card.js
 import React from "react";
 import "./Card.css";
 

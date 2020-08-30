@@ -1,4 +1,4 @@
-// inside src/components/SearchBar.js
+// src/components/SearchBar.js
 import React, { useState } from "react";
 import { fetchCards } from "../api";
 import "./SearchBar.css";

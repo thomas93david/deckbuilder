@@ -1,5 +1,4 @@
 #search {
-  /* background-color: white; */
   display: flex;
   flex-direction: row;
   height: 250px;
@@ -18,7 +17,6 @@
 }
 
 #search form {
-  /* margin-bottom: 9px; */
   margin-top: 100px;
   margin-right: 18px;
 }
